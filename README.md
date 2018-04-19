@@ -1,2 +1,2 @@
-# zadanie12_7
-https://teyreach.github.io/zadanie12_7/
+# Project-Kanban-OOP-AJAX-API
+https://teyreach.github.io/Project-Kanban-OOP-AJAX-API/
